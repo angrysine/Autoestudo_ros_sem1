@@ -21,7 +21,7 @@ setup(
     entry_points={
         'console_scripts': [
             'test_node = my_turtle_controller.my_turtle_controller:main',
-            'draw_circle = my_turtle_controller.draw_circle:main',
+            'draw_circle = my_turtle_controller.draw_losango:main',
         ],
     },
 )

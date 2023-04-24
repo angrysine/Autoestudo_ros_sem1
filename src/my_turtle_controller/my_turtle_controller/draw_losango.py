@@ -9,7 +9,7 @@ class Draw(Node):
         super().__init__('draw')
         self.cmd_vel_pub = self.create_publisher(Twist, 'turtle1/cmd_vel', 10)
         self.fase = 0
-        self.timer = self.create_timer(3, self.send_velocity)
+        self.timer = self.create_timer(1, self.send_velocity)
         self.get_logger().info('Drawer started')
         
         
