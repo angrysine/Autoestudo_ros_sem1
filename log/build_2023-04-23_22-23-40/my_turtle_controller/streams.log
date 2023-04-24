@@ -1,0 +1,17 @@
+[0.710s] Invoking command in '/home/angrysine/github/ros2_ws/build/my_turtle_controller': PYTHONPATH=/home/angrysine/github/ros2_ws/build/my_turtle_controller/prefix_override:/home/angrysine/github/ros2_ws/install/my_turtle_controller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/angrysine/github/ros2_ws/build/my_turtle_controller/build --no-deps install_data
+[1.019s] running develop
+[1.210s] running egg_info
+[1.211s] writing my_turtle_controller.egg-info/PKG-INFO
+[1.211s] writing dependency_links to my_turtle_controller.egg-info/dependency_links.txt
+[1.212s] writing entry points to my_turtle_controller.egg-info/entry_points.txt
+[1.212s] writing requirements to my_turtle_controller.egg-info/requires.txt
+[1.212s] writing top-level names to my_turtle_controller.egg-info/top_level.txt
+[1.214s] reading manifest file 'my_turtle_controller.egg-info/SOURCES.txt'
+[1.215s] writing manifest file 'my_turtle_controller.egg-info/SOURCES.txt'
+[1.217s] running build_ext
+[1.217s] Creating /home/angrysine/github/ros2_ws/install/my_turtle_controller/lib/python3.10/site-packages/my-turtle-controller.egg-link (link to .)
+[1.218s] Installing test_node script to /home/angrysine/github/ros2_ws/install/my_turtle_controller/lib/my_turtle_controller
+[1.218s] 
+[1.218s] Installed /home/angrysine/github/ros2_ws/build/my_turtle_controller
+[1.218s] running install_data
+[1.260s] Invoked command in '/home/angrysine/github/ros2_ws/build/my_turtle_controller' returned '0': PYTHONPATH=/home/angrysine/github/ros2_ws/build/my_turtle_controller/prefix_override:/home/angrysine/github/ros2_ws/install/my_turtle_controller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/angrysine/github/ros2_ws/build/my_turtle_controller/build --no-deps install_data

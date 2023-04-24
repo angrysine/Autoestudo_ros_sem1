@@ -1,0 +1,12 @@
+{
+    "python.analysis.extraPaths": [
+        "/home/angrysine/github/ros_autoestudo_sem1/src/install/my_first_project_controller/lib/python3.10/site-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ],
+    "python.autoComplete.extraPaths": [
+        "/home/angrysine/github/ros_autoestudo_sem1/src/install/my_first_project_controller/lib/python3.10/site-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ]
+}
